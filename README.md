@@ -1,6 +1,6 @@
 # React + Vite
 
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](https://github.com/akhand55/Weather-forecasting/blob/57e72f108f2ebcc26a7c7908a1ab2cb6981485b1/public/Screenshot%202025-02-01%20103056.png)
 
 <br/>
 <br/>
